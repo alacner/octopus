@@ -1,8 +1,8 @@
-![](https://raw.github.com/alacner/burne-web/master/docs/logo.jpg)
+![](https://raw.github.com/alacner/pecan-web/master/docs/logo.jpg)
 
-Walle - A On-line Deployment Tool
+Pecan - A On-line Deployment Tool
 
-Now, there are more than hundreds of companies hosted walle for deployment, star walle if you like : )
+Now, there are more than hundreds of companies hosted walle for deployment, star pecan if you like : )
 
 * Support git/svn Version control system.
 * User signup by admin/develop identity.
@@ -35,15 +35,15 @@ That's all. It's base package of PHP environment!
 Installation
 ------------
 ```
-git clone git@github.com:alacner/walle-web.git
-cd walle-web
+git clone git@github.com:alacner/pecan-web.git
+cd pecan-web
 ```
 
 ## CHANGELOG
-[CHANGELOG](https://github.com/alacner/walle-web/releases)
+[CHANGELOG](https://github.com/alacner/pecan-web/releases)
 
 
 Discussing
 ----------
-- [submit issue](https://github.com/alacner/walle-web/issues/new)
+- [submit issue](https://github.com/alacner/pecan-web/issues/new)
 - email: alacner@tfizzy.org
